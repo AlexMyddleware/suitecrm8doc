@@ -1,7 +1,7 @@
 ## File sturcture
 
 <!-- link to images -->
-![File structure](/images/file-structure.png)
+![File structure](/images/file-structure-root.png)
 This from this file structure, we can see seveal folders 
 
 4 drwxr-xr-x 1 AzureAD+AlexisTroïtzky 4096    0 Nov 10 15:36 ./
