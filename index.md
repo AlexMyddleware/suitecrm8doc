@@ -8,6 +8,10 @@ Welcome to my first article on SuiteCRM 8.4.0 documentation.
 
 ## Section 2: Features
 
+### 2.1: File structure
+<!-- link to file structure -->
+[File structure](/file-structure.md)
+
 ## Section 3: Bugs
 There is a bug in the FP_events module.
 When you go to the detail view, the connected contacts don't show up. This is probably caused either by the naming of the relationship, delegates, or by the theme that was implemented. When the theme was changed, the contacts showed up.
