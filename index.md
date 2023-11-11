@@ -12,4 +12,4 @@ Here's some introduction text.
 There is a bug in the FP_events module.
 When you go to the detail view, the connected contacts don't show up. This is probably caused either by the naming of the relationship, delegates, or by the theme that was implemented. When the theme was changed, the contacts showed up.
 
-![Bug delegetates](bug_delegates.png)
+![Bug delegetates](/images/bug_delegates.png)
