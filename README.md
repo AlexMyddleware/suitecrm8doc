@@ -1,2 +1,2 @@
 # suitecrm8doc
-This is a private documentation for suitecrm 8.4.0
+This is a public  documentation for suitecrm 8.4.0
